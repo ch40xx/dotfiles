@@ -10,7 +10,7 @@
     "tooltip-format": "Filemanager"
   },
   "custom/quicklink3": {
-    "format": "󰇮",
+    "format": "󰇰 ",
     "on-click": "thunderbird",
     "tooltip-format": "Thunderbird"
   },
@@ -20,7 +20,7 @@
     "tooltip-format": "Neovim"
   },
   "custom/quicklink5": {
-    "format": "🐟",
+    "format": "",
     "on-click": "kitty",
     "tooltip-format": "Terminal"
   },
