@@ -83,6 +83,13 @@ window#waybar.empty #window {
   box-shadow: 0px 0px 8px 4px @shadow inset;
 }
 
+#battery {
+  background-color: @surface;
+  border-radius:999px;
+  box-shadow: 0px 0px 8px 4px @shadow inset;
+  padding: 0 16px;
+}
+
 #sound,
 #hardware,
 #clock {

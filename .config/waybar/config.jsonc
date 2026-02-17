@@ -32,6 +32,7 @@
     "group/sound",
     "group/hardware",
     "clock",
+    "battery",
     "custom/notification"
   ]
 }
